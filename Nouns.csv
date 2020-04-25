@@ -1,0 +1,53 @@
+1,1,2,Human,Humans,Adan,Edain,,,,,,
+1,1,2,King,Kings,Aran,Erain,,,,,,
+1,1,2,Deer,Dear,Aras,Erais,,,,,,
+1,1,2,Elf,Elves,Edhel,Edhil,,,,,,
+1,1,2,Elf-maiden,Elf-maidens,Elleth,Ellith,,,,,,
+1,1,2,Lord,Lords,Hîr,Hîr,,,,,,
+1,1,2,Son,Sons,Ion,Ion,,,,,,
+1,1,2,Dwarf,Dwarves,Naug,Noeg,,,,,,
+1,1,2,Path/way,Paths/ways,Rath,Raith,,,,,,
+1,1,2,Daughter,Daughters,Sell,Sill,,,,,,
+1,1,1,Rivendell,0,Imladris,0,,,,,,
+1,1,1,0,Middle earth,0,Ennorath,,,,,,
+1,1,1,Leap,0,Cabed,0,,,,,,
+1,1,1,Bitter Tears,0,Nirnaeth,0,,,,,,
+1,1,1,End,0,Methed,0,,,,,,
+1,1,2,Half-elf,Half-elves,Peredhel,Peredhil,,,,,,
+1,2,1,I,ni,S,0,0,0,0,0,0,0
+1,2,1,We,mí,P,0,0,0,0,0,0,0
+1,2,1,You,le,S,0,0,0,1,1,0,0
+1,2,1,You,le,P,0,0,0,1,1,0,0
+1,2,1,You,ci,S,0,1,0,1,1,0,0
+1,2,1,You,ci,P,0,1,0,1,1,0,0
+1,2,1,He,ho,S,M,0,0,0,0,0,0
+1,2,1,They,hy,P,M,0,1,0,0,0,0
+1,2,1,she,he,S,F,0,0,0,0,0,0
+1,2,1,They,hi,P,F,0,1,0,0,0,0
+1,2,1,It,ha,S,It,0,0,0,0,0,0
+1,2,1,They,hai,P,It,0,1,0,0,0,0
+2,1,2,House/Building,Houses/Buildings,adab,edaib,,,,,,
+2,1,2,Range of peaks,Ranges of peaks,aeglir,aeglir,,,,,,
+2,1,1,East,0,Amrûn,0,,,,,,
+2,1,1,Gate,0,Annon,0,,,,,,
+2,1,1,Sun,0,Anor,0,,,,,,
+2,1,2,Border,Borders,Edrain,Edrain,,,,,,
+2,1,2,Ravine,Ravines,Falch,Felch,,,,,,
+2,1,2,Friend,Friends,Mellon,Mellyn,,,,,,
+2,1,1,Evening,0,Aduial,0,,,,,,
+2,2,1,What/Who,Man,S/P,It,0,0,0,0,0,0
+2,3,15,a,approach,anglenna,approach,approaches,approaching,,,,
+2,3,15,a,give,anna,give,gives,giving,,,,
+2,3,15,a,stay/dwell,dortha,stay/dwell,stays/dwells,staying/dwelling,,,,
+2,3,15,a,flame,lacha,flame,flames,flaming,,,,
+2,3,15,a,hear,lasta,hear,hears,hearing,,,,
+2,3,15,a,sing,linna,sing,sings,singing,,,,
+2,3,15,a,enter,minna,enter,enters,entering,,,,
+2,3,15,a,wander,revia,wander,wanders,wandering,,,,
+2,3,15,a,grow towards evening,thinna,grow towards evening,grows towards evening,growing towards evening,,,,
+2,4,1,There,ennas,,,,,,,,
+2,6,1,in,mi,,,,,,,,
+2,6,1,in the,min,,,,,,,,
+2,6,1,to/towards/at,na,,,,,,,,
+2,6,1,to the/at the,nan,,,,,,,,
+2,7,1,And,a(h)/ar,,,,,,,,
